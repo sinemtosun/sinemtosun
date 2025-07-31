@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, it's Sinem 
 
-<!--
-**sinemtosun/sinemtosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Engineering Student at METU NCC  
+📊 Data Analytics Intern @ Beko | AWS Enthusiast  
+🧠 Passionate about AI, Automation, and Problem Solving  
+💻 Python | SQL | AWS | Git | C++  
+🌍 Always learning, always building
 
-Here are some ideas to get you started:
+## 🧩 Tech Stack
+- Languages: Python, C++, Haskell, Prolog, C  
+- Tools: Pandas, Modelsim, AWS Glue, Qlik, Git  
+- Platforms: GitHub, VS Code, Jupyter, Linux  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects  
+- Data Visualization Dashboard using Qlik  
+- GitHub Portfolio Enhancement (this one 😄)
+
+## 📫 Reach Me
+- 📍 Based in Turkey & Cyprus  
+- 📧 sinem.tosun@metu.edu.tr
+- [LinkedIn](https://linkedin.com/in/1sinemtosun)  
